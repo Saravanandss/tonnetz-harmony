@@ -1,0 +1,417 @@
+{
+  "songs": 180,
+  "albums": 13,
+  "chord_segments": 14194,
+  "distinct_raw_chord_labels": 406,
+  "segments_by_reduced_kind": {
+    "maj": 10658,
+    "min": 2933,
+    "other": 603
+  },
+  "share_segments_reduced_to_triads": 0.9575172608144287,
+  "top_non_triad_labels": [
+    [
+      "F#:sus4",
+      52
+    ],
+    [
+      "A:aug",
+      24
+    ],
+    [
+      "A:sus4",
+      23
+    ],
+    [
+      "D:sus4",
+      20
+    ],
+    [
+      "C:min(*b3)",
+      18
+    ],
+    [
+      "C:(1)",
+      18
+    ],
+    [
+      "B:(1)",
+      16
+    ],
+    [
+      "E:aug",
+      15
+    ]
+  ],
+  "chord_changes_all": 12297,
+  "chord_changes_between_two_triads": 11228,
+  "G3": {
+    "nodes": 24,
+    "nodes_used": 24,
+    "edges": 344,
+    "possible_edges": 552,
+    "total_weight": 11228,
+    "edges_that_are_also_G2_edges": 58
+  },
+  "distance_counts": {
+    "1": 1374,
+    "2": 6014,
+    "3": 1775,
+    "4": 1952,
+    "5": 113
+  },
+  "distance_shares_observed": {
+    "1": 0.12237263982899893,
+    "2": 0.5356252226576416,
+    "3": 0.15808692554328466,
+    "4": 0.17385108656929105,
+    "5": 0.010064125400783755
+  },
+  "distance_shares_uniform": {
+    "1": 0.13043478260869565,
+    "2": 0.2608695652173913,
+    "3": 0.34782608695652173,
+    "4": 0.21739130434782608,
+    "5": 0.043478260869565216
+  },
+  "distance_shares_shuffled": {
+    "1": 0.1638372657712079,
+    "2": 0.4488027977163433,
+    "3": 0.18996863130631164,
+    "4": 0.18311104793941835,
+    "5": 0.014280257266718784
+  },
+  "mean_distance_observed": 2.413608835055219,
+  "mean_distance_uniform": 2.782608695652174,
+  "mean_distance_shuffled": 2.4351942332140966,
+  "single_step_ops": {
+    "P": 128,
+    "R": 703,
+    "L": 543
+  },
+  "top_transitions_absolute": [
+    {
+      "from": "A",
+      "to": "D",
+      "count": 588,
+      "distance": 2,
+      "path": "RL"
+    },
+    {
+      "from": "D",
+      "to": "G",
+      "count": 539,
+      "distance": 2,
+      "path": "RL"
+    },
+    {
+      "from": "E",
+      "to": "A",
+      "count": 456,
+      "distance": 2,
+      "path": "RL"
+    },
+    {
+      "from": "D",
+      "to": "A",
+      "count": 433,
+      "distance": 2,
+      "path": "LR"
+    },
+    {
+      "from": "G",
+      "to": "C",
+      "count": 412,
+      "distance": 2,
+      "path": "RL"
+    },
+    {
+      "from": "C",
+      "to": "G",
+      "count": 406,
+      "distance": 2,
+      "path": "LR"
+    },
+    {
+      "from": "G",
+      "to": "D",
+      "count": 353,
+      "distance": 2,
+      "path": "LR"
+    },
+    {
+      "from": "A",
+      "to": "E",
+      "count": 335,
+      "distance": 2,
+      "path": "LR"
+    },
+    {
+      "from": "B",
+      "to": "E",
+      "count": 283,
+      "distance": 2,
+      "path": "RL"
+    },
+    {
+      "from": "G",
+      "to": "A",
+      "count": 212,
+      "distance": 4,
+      "path": "RPRL"
+    },
+    {
+      "from": "D",
+      "to": "E",
+      "count": 177,
+      "distance": 4,
+      "path": "LRLR"
+    },
+    {
+      "from": "C",
+      "to": "F",
+      "count": 174,
+      "distance": 2,
+      "path": "RL"
+    },
+    {
+      "from": "F",
+      "to": "C",
+      "count": 167,
+      "distance": 2,
+      "path": "LR"
+    },
+    {
+      "from": "C",
+      "to": "D",
+      "count": 156,
+      "distance": 4,
+      "path": "RLRP"
+    },
+    {
+      "from": "F",
+      "to": "G",
+      "count": 149,
+      "distance": 4,
+      "path": "LRLR"
+    }
+  ],
+  "major_key_transitions": 10029,
+  "top_transitions_key_relative": [
+    {
+      "from": "IV",
+      "to": "I",
+      "count": 1137,
+      "share": 0.11337122345198923,
+      "distance": 2,
+      "path": "LR"
+    },
+    {
+      "from": "I",
+      "to": "IV",
+      "count": 1125,
+      "share": 0.11217469338917141,
+      "distance": 2,
+      "path": "RL"
+    },
+    {
+      "from": "V",
+      "to": "I",
+      "count": 1110,
+      "share": 0.11067903081064911,
+      "distance": 2,
+      "path": "RL"
+    },
+    {
+      "from": "I",
+      "to": "V",
+      "count": 530,
+      "share": 0.05284674444112075,
+      "distance": 2,
+      "path": "LR"
+    },
+    {
+      "from": "IV",
+      "to": "V",
+      "count": 477,
+      "share": 0.047562069997008675,
+      "distance": 4,
+      "path": "LRLR"
+    },
+    {
+      "from": "I",
+      "to": "vi",
+      "count": 344,
+      "share": 0.03430052846744441,
+      "distance": 1,
+      "path": "R"
+    },
+    {
+      "from": "V",
+      "to": "IV",
+      "count": 246,
+      "share": 0.02452886628776548,
+      "distance": 4,
+      "path": "LRPR"
+    },
+    {
+      "from": "ii",
+      "to": "V",
+      "count": 242,
+      "share": 0.02413002293349287,
+      "distance": 3,
+      "path": "PRL"
+    },
+    {
+      "from": "I",
+      "to": "bVII",
+      "count": 215,
+      "share": 0.02143783029215276,
+      "distance": 4,
+      "path": "RLRL"
+    },
+    {
+      "from": "bVII",
+      "to": "I",
+      "count": 191,
+      "share": 0.0190447701665171,
+      "distance": 4,
+      "path": "RLRP"
+    },
+    {
+      "from": "vi",
+      "to": "IV",
+      "count": 180,
+      "share": 0.017947950942267425,
+      "distance": 1,
+      "path": "L"
+    },
+    {
+      "from": "II",
+      "to": "V",
+      "count": 163,
+      "share": 0.016252866686608834,
+      "distance": 2,
+      "path": "RL"
+    }
+  ],
+  "chord_time_shares_key_relative": [
+    [
+      "I",
+      0.3974060093593736
+    ],
+    [
+      "IV",
+      0.16139238927154864
+    ],
+    [
+      "V",
+      0.13528570598669937
+    ],
+    [
+      "vi",
+      0.06471063750877061
+    ],
+    [
+      "ii",
+      0.042730313350538784
+    ],
+    [
+      "bVII",
+      0.04150023372852533
+    ],
+    [
+      "II",
+      0.0305758482029232
+    ],
+    [
+      "iii",
+      0.020160157093603772
+    ],
+    [
+      "bIII",
+      0.015486718482949793
+    ],
+    [
+      "VI",
+      0.014342909403796353
+    ]
+  ],
+  "cluster_test": {
+    "4": {
+      "chords": [
+        "I",
+        "IV",
+        "V",
+        "vi"
+      ],
+      "share_of_playing_time": 0.7587947421263921,
+      "mean_pairwise_distance": 2.1666666666666665,
+      "random_sets_mean": 2.782191666666667,
+      "random_sets_share_as_compact_or_more": 0.10125,
+      "connected_components_in_G2": 2
+    },
+    "6": {
+      "chords": [
+        "I",
+        "IV",
+        "V",
+        "vi",
+        "ii",
+        "bVII"
+      ],
+      "share_of_playing_time": 0.8430252892054564,
+      "mean_pairwise_distance": 2.2666666666666666,
+      "random_sets_mean": 2.78235,
+      "random_sets_share_as_compact_or_more": 0.03115,
+      "connected_components_in_G2": 2
+    },
+    "8": {
+      "chords": [
+        "I",
+        "IV",
+        "V",
+        "vi",
+        "ii",
+        "bVII",
+        "II",
+        "iii"
+      ],
+      "share_of_playing_time": 0.8937612945019833,
+      "mean_pairwise_distance": 2.3214285714285716,
+      "random_sets_mean": 2.781760714285714,
+      "random_sets_share_as_compact_or_more": 0.0061,
+      "connected_components_in_G2": 1
+    }
+  },
+  "mean_distance_by_album": {
+    "01_-_Please_Please_Me": 2.4,
+    "02_-_With_the_Beatles": 2.222,
+    "03_-_A_Hard_Day's_Night": 2.392,
+    "04_-_Beatles_for_Sale": 2.479,
+    "05_-_Help!": 2.362,
+    "06_-_Rubber_Soul": 2.418,
+    "07_-_Revolver": 2.557,
+    "08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band": 2.436,
+    "09_-_Magical_Mystery_Tour": 2.43,
+    "10CD1_-_The_Beatles": 2.442,
+    "10CD2_-_The_Beatles": 2.435,
+    "11_-_Abbey_Road": 2.549,
+    "12_-_Let_It_Be": 2.258
+  },
+  "changes_by_album": {
+    "01_-_Please_Please_Me": 897,
+    "02_-_With_the_Beatles": 796,
+    "03_-_A_Hard_Day's_Night": 923,
+    "04_-_Beatles_for_Sale": 896,
+    "05_-_Help!": 922,
+    "06_-_Rubber_Soul": 888,
+    "07_-_Revolver": 634,
+    "08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band": 850,
+    "09_-_Magical_Mystery_Tour": 693,
+    "10CD1_-_The_Beatles": 1139,
+    "10CD2_-_The_Beatles": 910,
+    "11_-_Abbey_Road": 881,
+    "12_-_Let_It_Be": 799
+  }
+}

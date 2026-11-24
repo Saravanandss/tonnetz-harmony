@@ -1,0 +1,1404 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="tonnetz_distance" attr.type="long"/>
+<key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="directed"><node id="C"/>
+<node id="Cm"/>
+<node id="C#"/>
+<node id="C#m"/>
+<node id="D"/>
+<node id="Dm"/>
+<node id="Eb"/>
+<node id="Ebm"/>
+<node id="E"/>
+<node id="Em"/>
+<node id="F"/>
+<node id="Fm"/>
+<node id="F#"/>
+<node id="F#m"/>
+<node id="G"/>
+<node id="Gm"/>
+<node id="Ab"/>
+<node id="Abm"/>
+<node id="A"/>
+<node id="Am"/>
+<node id="Bb"/>
+<node id="Bbm"/>
+<node id="B"/>
+<node id="Bm"/>
+<edge source="C" target="Am">
+  <data key="d0">73</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="C" target="F">
+  <data key="d0">174</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="C" target="B">
+  <data key="d0">19</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="C" target="G">
+  <data key="d0">406</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="C" target="D">
+  <data key="d0">156</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="C" target="E">
+  <data key="d0">34</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="C" target="Em">
+  <data key="d0">48</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="C" target="Cm">
+  <data key="d0">10</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="C" target="Dm">
+  <data key="d0">30</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="C" target="C#">
+  <data key="d0">10</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="C" target="Bb">
+  <data key="d0">49</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="C" target="Fm">
+  <data key="d0">26</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="C" target="F#m">
+  <data key="d0">4</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="C" target="A">
+  <data key="d0">17</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="C" target="Gm">
+  <data key="d0">16</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="C" target="Bbm">
+  <data key="d0">1</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="C" target="Bm">
+  <data key="d0">4</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="C" target="F#">
+  <data key="d0">1</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Cm" target="E">
+  <data key="d0">3</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Cm" target="G">
+  <data key="d0">17</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Cm" target="A">
+  <data key="d0">3</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Cm" target="Fm">
+  <data key="d0">16</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Cm" target="Eb">
+  <data key="d0">4</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Cm" target="D">
+  <data key="d0">4</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="Cm" target="Ab">
+  <data key="d0">4</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="C#" target="D">
+  <data key="d0">10</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="C#" target="A">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="C#" target="F#">
+  <data key="d0">33</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="C#" target="F">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="C#" target="Bbm">
+  <data key="d0">22</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="C#" target="C">
+  <data key="d0">10</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="C#" target="Ab">
+  <data key="d0">40</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="C#" target="Eb">
+  <data key="d0">5</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="C#" target="F#m">
+  <data key="d0">16</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="C#" target="B">
+  <data key="d0">18</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="C#" target="Bb">
+  <data key="d0">3</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="C#" target="Em">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="C#" target="Bm">
+  <data key="d0">1</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="C#" target="Fm">
+  <data key="d0">1</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="C#m" target="A">
+  <data key="d0">46</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="C#m" target="Am">
+  <data key="d0">1</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="C#m" target="F#m">
+  <data key="d0">51</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="C#m" target="Bm">
+  <data key="d0">7</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="C#m" target="B">
+  <data key="d0">7</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="C#m" target="F#">
+  <data key="d0">22</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="C#m" target="E">
+  <data key="d0">10</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="C#m" target="Abm">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="C#m" target="Eb">
+  <data key="d0">2</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="C#m" target="Ab">
+  <data key="d0">6</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="C#m" target="D">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="C#m" target="C">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="C#m" target="Bb">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="D" target="Bm">
+  <data key="d0">84</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="D" target="G">
+  <data key="d0">539</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="D" target="C">
+  <data key="d0">83</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="D" target="A">
+  <data key="d0">433</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="D" target="Em">
+  <data key="d0">45</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="D" target="Bb">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="D" target="B">
+  <data key="d0">24</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="D" target="Gm">
+  <data key="d0">7</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="D" target="E">
+  <data key="d0">177</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="D" target="Am">
+  <data key="d0">22</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="D" target="C#">
+  <data key="d0">3</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="D" target="F#m">
+  <data key="d0">17</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="D" target="F">
+  <data key="d0">53</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="D" target="Dm">
+  <data key="d0">11</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="D" target="F#">
+  <data key="d0">6</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="D" target="Eb">
+  <data key="d0">7</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="D" target="C#m">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Dm" target="Gm">
+  <data key="d0">29</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Dm" target="Bb">
+  <data key="d0">20</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Dm" target="G">
+  <data key="d0">39</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Dm" target="F">
+  <data key="d0">12</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Dm" target="Fm">
+  <data key="d0">4</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Dm" target="Am">
+  <data key="d0">12</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Dm" target="A">
+  <data key="d0">36</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Dm" target="Em">
+  <data key="d0">10</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Dm" target="D">
+  <data key="d0">4</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Dm" target="E">
+  <data key="d0">30</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="Dm" target="C">
+  <data key="d0">5</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Dm" target="Bbm">
+  <data key="d0">3</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Eb" target="Bb">
+  <data key="d0">53</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Eb" target="F">
+  <data key="d0">14</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Eb" target="Ebm">
+  <data key="d0">1</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Eb" target="Ab">
+  <data key="d0">47</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Eb" target="D">
+  <data key="d0">13</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Eb" target="G">
+  <data key="d0">12</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Eb" target="Gm">
+  <data key="d0">14</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Eb" target="Fm">
+  <data key="d0">12</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Eb" target="Abm">
+  <data key="d0">7</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Eb" target="E">
+  <data key="d0">12</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Eb" target="Bbm">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Eb" target="A">
+  <data key="d0">2</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Eb" target="C">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Eb" target="Cm">
+  <data key="d0">1</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Ebm" target="D">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Ebm" target="B">
+  <data key="d0">1</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Ebm" target="Abm">
+  <data key="d0">15</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Ebm" target="C#m">
+  <data key="d0">2</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Ebm" target="F#">
+  <data key="d0">2</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Ebm" target="Ab">
+  <data key="d0">4</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Ebm" target="F#m">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="E" target="A">
+  <data key="d0">456</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="E" target="B">
+  <data key="d0">136</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="E" target="F#m">
+  <data key="d0">45</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="E" target="Ab">
+  <data key="d0">13</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="E" target="G">
+  <data key="d0">60</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="E" target="Abm">
+  <data key="d0">28</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="E" target="C#m">
+  <data key="d0">64</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="E" target="C">
+  <data key="d0">34</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="E" target="Bm">
+  <data key="d0">32</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="E" target="F#">
+  <data key="d0">12</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="E" target="C#">
+  <data key="d0">6</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="E" target="D">
+  <data key="d0">99</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="E" target="Gm">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="E" target="Am">
+  <data key="d0">55</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="E" target="Em">
+  <data key="d0">2</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="E" target="Dm">
+  <data key="d0">4</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="E" target="Eb">
+  <data key="d0">5</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="E" target="F">
+  <data key="d0">4</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="E" target="Bb">
+  <data key="d0">5</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Em" target="A">
+  <data key="d0">109</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Em" target="D">
+  <data key="d0">19</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Em" target="G">
+  <data key="d0">38</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Em" target="C">
+  <data key="d0">62</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Em" target="Am">
+  <data key="d0">71</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Em" target="Bm">
+  <data key="d0">12</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Em" target="B">
+  <data key="d0">10</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Em" target="F#m">
+  <data key="d0">11</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Em" target="F">
+  <data key="d0">23</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Em" target="Dm">
+  <data key="d0">2</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Em" target="Bb">
+  <data key="d0">4</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Em" target="F#">
+  <data key="d0">8</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="Em" target="E">
+  <data key="d0">1</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Em" target="Fm">
+  <data key="d0">1</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F" target="G">
+  <data key="d0">149</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F" target="C">
+  <data key="d0">167</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F" target="Eb">
+  <data key="d0">20</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F" target="Bb">
+  <data key="d0">81</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F" target="B">
+  <data key="d0">5</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F" target="E">
+  <data key="d0">22</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F" target="Am">
+  <data key="d0">30</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="F" target="Gm">
+  <data key="d0">17</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="F" target="D">
+  <data key="d0">24</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F" target="C#">
+  <data key="d0">1</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F" target="Bbm">
+  <data key="d0">13</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="F" target="Ab">
+  <data key="d0">14</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F" target="F#">
+  <data key="d0">1</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F" target="Em">
+  <data key="d0">17</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="F" target="Dm">
+  <data key="d0">13</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="F" target="Bm">
+  <data key="d0">4</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="F" target="A">
+  <data key="d0">9</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F" target="F#m">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Fm" target="C">
+  <data key="d0">18</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Fm" target="C#">
+  <data key="d0">5</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Fm" target="Ab">
+  <data key="d0">5</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Fm" target="Eb">
+  <data key="d0">12</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Fm" target="Cm">
+  <data key="d0">4</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Fm" target="Bb">
+  <data key="d0">32</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Fm" target="Bbm">
+  <data key="d0">4</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Fm" target="F">
+  <data key="d0">5</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Fm" target="G">
+  <data key="d0">10</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="Fm" target="Ebm">
+  <data key="d0">6</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F#" target="B">
+  <data key="d0">74</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F#" target="E">
+  <data key="d0">24</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F#" target="C#m">
+  <data key="d0">5</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="F#" target="F">
+  <data key="d0">11</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F#" target="G">
+  <data key="d0">2</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F#" target="Eb">
+  <data key="d0">5</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F#" target="Bm">
+  <data key="d0">18</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="F#" target="Bb">
+  <data key="d0">4</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F#" target="Abm">
+  <data key="d0">4</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="F#" target="C#">
+  <data key="d0">21</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F#" target="Ebm">
+  <data key="d0">9</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="F#" target="A">
+  <data key="d0">10</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F#" target="Ab">
+  <data key="d0">5</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F#" target="C">
+  <data key="d0">7</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F#m" target="Abm">
+  <data key="d0">9</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F#m" target="B">
+  <data key="d0">107</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="F#m" target="E">
+  <data key="d0">8</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="F#m" target="C#m">
+  <data key="d0">28</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F#m" target="Cm">
+  <data key="d0">3</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F#m" target="A">
+  <data key="d0">41</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="F#m" target="Bm">
+  <data key="d0">26</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F#m" target="Am">
+  <data key="d0">3</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F#m" target="D">
+  <data key="d0">50</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="F#m" target="Ab">
+  <data key="d0">11</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="F#m" target="G">
+  <data key="d0">4</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="F#m" target="C#">
+  <data key="d0">12</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="F#m" target="Em">
+  <data key="d0">1</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="F#m" target="Dm">
+  <data key="d0">6</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="F#m" target="F">
+  <data key="d0">6</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="F#m" target="Gm">
+  <data key="d0">1</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="G" target="C">
+  <data key="d0">412</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="G" target="D">
+  <data key="d0">353</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="G" target="E">
+  <data key="d0">41</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="G" target="Gm">
+  <data key="d0">36</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="G" target="A">
+  <data key="d0">212</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="G" target="C#">
+  <data key="d0">3</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="G" target="Em">
+  <data key="d0">74</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="G" target="F">
+  <data key="d0">100</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="G" target="F#m">
+  <data key="d0">5</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="G" target="F#">
+  <data key="d0">24</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="G" target="Am">
+  <data key="d0">106</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="G" target="B">
+  <data key="d0">30</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="G" target="Bm">
+  <data key="d0">61</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="G" target="Ab">
+  <data key="d0">3</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="G" target="Bb">
+  <data key="d0">16</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="G" target="Eb">
+  <data key="d0">23</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="G" target="Cm">
+  <data key="d0">15</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="G" target="Dm">
+  <data key="d0">7</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="G" target="Fm">
+  <data key="d0">1</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="Gm" target="E">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Gm" target="F#m">
+  <data key="d0">14</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Gm" target="C">
+  <data key="d0">33</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Gm" target="Bbm">
+  <data key="d0">5</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Gm" target="G">
+  <data key="d0">4</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Gm" target="F#">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Gm" target="A">
+  <data key="d0">9</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="Gm" target="D">
+  <data key="d0">47</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Gm" target="Dm">
+  <data key="d0">11</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Gm" target="F">
+  <data key="d0">19</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Gm" target="Bm">
+  <data key="d0">5</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Gm" target="Fm">
+  <data key="d0">10</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Gm" target="Cm">
+  <data key="d0">12</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Gm" target="Eb">
+  <data key="d0">5</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Gm" target="Bb">
+  <data key="d0">10</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Gm" target="Abm">
+  <data key="d0">1</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Gm" target="Am">
+  <data key="d0">2</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Ab" target="C#m">
+  <data key="d0">18</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Ab" target="F">
+  <data key="d0">7</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Ab" target="A">
+  <data key="d0">12</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Ab" target="G">
+  <data key="d0">5</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Ab" target="C#">
+  <data key="d0">66</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Ab" target="F#m">
+  <data key="d0">8</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="Ab" target="Am">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Ab" target="Eb">
+  <data key="d0">52</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Ab" target="Bb">
+  <data key="d0">18</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Ab" target="Bbm">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Ab" target="C">
+  <data key="d0">5</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Ab" target="D">
+  <data key="d0">3</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Ab" target="F#">
+  <data key="d0">6</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Ab" target="Gm">
+  <data key="d0">8</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Abm" target="F#m">
+  <data key="d0">14</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Abm" target="A">
+  <data key="d0">17</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Abm" target="Gm">
+  <data key="d0">19</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Abm" target="G">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Abm" target="C#m">
+  <data key="d0">1</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Abm" target="B">
+  <data key="d0">11</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Abm" target="F#">
+  <data key="d0">8</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Abm" target="Bbm">
+  <data key="d0">4</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Abm" target="E">
+  <data key="d0">3</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Abm" target="Ebm">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Abm" target="C#">
+  <data key="d0">9</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Abm" target="Eb">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Abm" target="Dm">
+  <data key="d0">1</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="A" target="E">
+  <data key="d0">335</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="A" target="Am">
+  <data key="d0">20</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="B">
+  <data key="d0">107</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="A" target="D">
+  <data key="d0">588</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="A" target="F#">
+  <data key="d0">19</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="A" target="Abm">
+  <data key="d0">9</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="A" target="F#m">
+  <data key="d0">83</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="Bm">
+  <data key="d0">43</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="A" target="Bb">
+  <data key="d0">5</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="A" target="G">
+  <data key="d0">98</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="A" target="C#m">
+  <data key="d0">22</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="Em">
+  <data key="d0">40</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="A" target="Ab">
+  <data key="d0">7</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="A" target="Dm">
+  <data key="d0">61</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="A" target="C">
+  <data key="d0">47</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="A" target="C#">
+  <data key="d0">4</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="A" target="F">
+  <data key="d0">12</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="A" target="Eb">
+  <data key="d0">1</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Am" target="E">
+  <data key="d0">20</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Am" target="G">
+  <data key="d0">72</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Am" target="C">
+  <data key="d0">71</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Am" target="F#">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Am" target="Em">
+  <data key="d0">44</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Am" target="Abm">
+  <data key="d0">5</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Am" target="D">
+  <data key="d0">57</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Am" target="Bm">
+  <data key="d0">20</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Am" target="Dm">
+  <data key="d0">33</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Am" target="F">
+  <data key="d0">62</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Am" target="A">
+  <data key="d0">8</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Am" target="Bb">
+  <data key="d0">6</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Am" target="B">
+  <data key="d0">14</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="Am" target="Gm">
+  <data key="d0">6</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Am" target="Fm">
+  <data key="d0">3</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Am" target="Cm">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Bb" target="Eb">
+  <data key="d0">46</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Bb" target="F">
+  <data key="d0">72</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Bb" target="C">
+  <data key="d0">70</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Bb" target="Bbm">
+  <data key="d0">6</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Bb" target="G">
+  <data key="d0">14</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Bb" target="Gm">
+  <data key="d0">9</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Bb" target="Am">
+  <data key="d0">12</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Bb" target="D">
+  <data key="d0">4</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Bb" target="Cm">
+  <data key="d0">5</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Bb" target="Fm">
+  <data key="d0">11</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Bb" target="Ebm">
+  <data key="d0">4</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Bb" target="Ab">
+  <data key="d0">36</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Bb" target="A">
+  <data key="d0">5</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Bb" target="Dm">
+  <data key="d0">11</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Bb" target="C#m">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Bbm" target="F">
+  <data key="d0">20</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Bbm" target="Ebm">
+  <data key="d0">3</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Bbm" target="C#">
+  <data key="d0">5</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Bbm" target="Eb">
+  <data key="d0">7</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Bbm" target="Fm">
+  <data key="d0">14</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Bbm" target="Ab">
+  <data key="d0">6</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Bbm" target="Abm">
+  <data key="d0">4</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Bbm" target="C">
+  <data key="d0">2</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="B" target="E">
+  <data key="d0">283</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="B" target="A">
+  <data key="d0">70</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="B" target="Abm">
+  <data key="d0">11</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="B" target="C#m">
+  <data key="d0">20</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="B" target="F#m">
+  <data key="d0">27</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="B" target="C">
+  <data key="d0">13</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="B" target="Em">
+  <data key="d0">37</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="B" target="Bb">
+  <data key="d0">2</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="B" target="D">
+  <data key="d0">16</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="B" target="F#">
+  <data key="d0">46</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="B" target="Am">
+  <data key="d0">5</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="B" target="Dm">
+  <data key="d0">3</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="B" target="Bm">
+  <data key="d0">18</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="B" target="Ebm">
+  <data key="d0">2</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="B" target="C#">
+  <data key="d0">11</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="B" target="G">
+  <data key="d0">5</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Bm" target="D">
+  <data key="d0">51</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Bm" target="Em">
+  <data key="d0">49</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Bm" target="A">
+  <data key="d0">35</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Bm" target="F#m">
+  <data key="d0">33</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Bm" target="F#">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Bm" target="C#">
+  <data key="d0">3</data>
+  <data key="d1">5</data>
+</edge>
+<edge source="Bm" target="Am">
+  <data key="d0">22</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Bm" target="G">
+  <data key="d0">51</data>
+  <data key="d1">1</data>
+</edge>
+<edge source="Bm" target="Bb">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Bm" target="Gm">
+  <data key="d0">15</data>
+  <data key="d1">2</data>
+</edge>
+<edge source="Bm" target="E">
+  <data key="d0">44</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Bm" target="C#m">
+  <data key="d0">6</data>
+  <data key="d1">4</data>
+</edge>
+<edge source="Bm" target="C">
+  <data key="d0">14</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Bm" target="Eb">
+  <data key="d0">1</data>
+  <data key="d1">3</data>
+</edge>
+<edge source="Bm" target="B">
+  <data key="d0">2</data>
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>
